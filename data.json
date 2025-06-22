@@ -1,0 +1,10 @@
+{
+"tasks": [
+ { "id": 1, "name": "Do Laundry", "category_id": 1 },
+ { "id": 2, "name": "Finish project", "category_id": 2 }
+],
+"category": [
+ { "id": 1, "name": "cleaning" },
+ { "id": 2, "name": "work" }
+]
+}
